@@ -52,10 +52,13 @@ Build a prototype application that integrates with calendar APIs to provide real
 #### Outline of project
 
 
-Prediction model linke
+Prediction model link
+
 https://github.com/mad24x/Capstone/blob/main/meeting_prediction_attendance.ipynb
+
 data generator - include for future data colection.  (no need to run as data is include in the repository) 
 https://github.com/mad24x/Capstone/blob/main/data%20generator.ipynb
+
 Data file 
 https://github.com/mad24x/Capstone/blob/main/meeting_invites.csv
 
